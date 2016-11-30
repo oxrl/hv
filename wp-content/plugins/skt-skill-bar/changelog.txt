@@ -1,0 +1,13 @@
+== Changelog ==
+
+=1.2=
+
+Bugfixes for Wordpress 3.8.1
+
+=1.1=
+
+Bugfixes for Wordpress 3.8 for skill bar not working
+
+=1.0=
+
+Compatible upto Wordpress 3.7.1

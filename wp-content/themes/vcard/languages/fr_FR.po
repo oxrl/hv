@@ -1,0 +1,870 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: vCard Responsive WordPress Theme v1.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-12-15 09:15-0700\n"
+"PO-Revision-Date: Fri Feb 21 2014 23:05:30 GMT+0100 (Paris, Madrid)\n"
+"Last-Translator: amandine <amandine-francois@hotmail.fr>\n"
+"Language-Team: \n"
+"Language: French\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;__:1;"
+"_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;_x:1,2c;"
+"_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;esc_attr__:1;"
+"esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;esc_html_x:1,2c;"
+"comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: y:/vcard\n"
+"X-Textdomain-Support: yes\n"
+"X-Loco-Target-Locale: fr_FR"
+
+#: ../functions.php:155
+msgid "Page %s"
+msgstr "Page %s"
+
+#: ../functions.php:168
+msgid "Sidebar For Blog"
+msgstr "Sidebar du blog"
+
+#: ../functions.php:178
+msgid "Skills sidebar"
+msgstr "Sidebar des compétences"
+
+#: ../functions.php:268 ../functions/class-tgm-plugin-activation.php:155
+msgid "Install Required Plugins"
+msgstr "Plugins à installer"
+
+#: ../functions.php:269 ../functions/class-tgm-plugin-activation.php:156
+msgid "Install Plugins"
+msgstr "Installer plugins"
+
+#: ../functions.php:270 ../functions/class-tgm-plugin-activation.php:157
+msgid "Installing Plugin: %s"
+msgstr "Plugin installer à : %s"
+
+#: ../functions.php:271
+msgid "Something went wrong with the plugin API."
+msgstr "Quelque chose ne va pas avec le plugin API."
+
+#: ../functions.php:272 ../functions/class-tgm-plugin-activation.php:159
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Ce thème requiert ces plugins"
+msgstr[1] "Ce thème requiert ces plugins"
+
+#: ../functions.php:273 ../functions/class-tgm-plugin-activation.php:160
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Ce thème recommande ces plugins : %1$s"
+msgstr[1] "Ce thème recommande ces plugins"
+
+#: ../functions.php:274 ../functions/class-tgm-plugin-activation.php:161
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"installed."
+msgstr[0] ""
+"Désolé, mais vous ne disposez pas des autorisations nécessaires pour installer "
+"le plugin%. Contactez l'administrateur de ce site pour obtenir de l'aide sur le "
+"plugin installé."
+msgstr[1] ""
+"Désolé, mais vous ne disposez pas des autorisations nécessaires pour installer "
+"le plugin%. Contactez l'administrateur de ce site pour obtenir de l'aide sur le "
+"plugin installé."
+
+#: ../functions.php:275 ../functions/class-tgm-plugin-activation.php:162
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Le plugin est actuellement inactif : %1$s"
+msgstr[1] "Le plugin est actuellement inactif"
+
+#: ../functions.php:276 ../functions/class-tgm-plugin-activation.php:163
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Le plugin est actuellement inactif : %1$s"
+msgstr[1] "Le plugin est actuellement inactif"
+
+#: ../functions.php:277 ../functions/class-tgm-plugin-activation.php:164
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"activated."
+msgstr[0] ""
+"Désolé, mais vous n'avez pas les autorisations nécessaires pour activer le "
+"plugin %s. Contactez l'administrateur de ce site pour obtenir de l'aide sur le "
+"plugin activé."
+msgstr[1] ""
+"Désolé, mais vous n'avez pas les autorisations nécessaires pour activer le "
+"plugin%. Contactez l'administrateur de ce site pour obtenir de l'aide sur le "
+"plugin activé."
+
+#: ../functions.php:278 ../functions/class-tgm-plugin-activation.php:165
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+"Le plugin suivant doit être mis à jour dans sa dernière version pour assurer "
+"une compatibilité maximale avec ce thème:% 1 $ s."
+msgstr[1] ""
+"Le plugin suivant doit être mis à jour dans sa dernière version pour assurer "
+"une compatibilité maximale avec ce thème:% 1 $ s."
+
+#: ../functions.php:279 ../functions/class-tgm-plugin-activation.php:166
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins updated."
+msgstr[0] ""
+"Désolé, mais vous n'avez pas les autorisations nécessaires pour mettre à jour "
+"le plugin%. Contactez l'administrateur de ce site pour obtenir de l'aide sur le "
+"plugin à jour."
+msgstr[1] ""
+"Désolé, mais vous n'avez pas les autorisations nécessaires pour mettre à jour "
+"le plugin%. Contactez l'administrateur de ce site pour obtenir de l'aide sur le "
+"plugin à jour."
+
+#: ../functions.php:280 ../functions/class-tgm-plugin-activation.php:167
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Commencez à installer le plugin"
+msgstr[1] "Commencez à installer le plugin"
+
+#: ../functions.php:281 ../functions/class-tgm-plugin-activation.php:168
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] "Activez les plugins installés"
+msgstr[1] "Activez les plugins installés"
+
+#: ../functions.php:282 ../functions/class-tgm-plugin-activation.php:169
+msgid "Return to Required Plugins Installer"
+msgstr "Retour"
+
+#: ../functions.php:283 ../functions/class-tgm-plugin-activation.php:171 ../functions/class-tgm-plugin-activation.php:1840
+msgid "Plugin activated successfully."
+msgstr "Le plugin a bien été installé"
+
+#: ../functions.php:284
+msgid "All plugins installed and activated successfully. %s"
+msgstr "Tous les plugins ont été installés et activés. %s"
+
+#: ../functions.php:314
+msgid "Your comment is awaiting moderation."
+msgstr "Votre commentaire est soumis à modération."
+
+#: ../functions.php:319
+msgid "<h3>%s</h3>"
+msgstr "<h3>%s</h3>"
+
+#: ../functions.php:320
+msgid "%1$s at %2$s "
+msgstr "%1$s at %2$s "
+
+#: ../single.php:3 ../404.php:8 ../page.php:3 ../category.php:3 ../search.php:3 ../tag.php:3 ../archive.php:3 ../page-fullwidth.php:8 ../page-blog.php:10 ../page-resume.php:10 ../author.php:3 ../page-profile.php:9 ../page-contact.php:10 ../page-portfolio.php:9
+msgid "home page"
+msgstr "Page d'accueil"
+
+#: ../single.php:7 ../404.php:12 ../category.php:7 ../search.php:7 ../tag.php:7 ../archive.php:7 ../page-blog.php:15 ../author.php:7 ../index.php:8
+msgid "my blog posts"
+msgstr "mes articles"
+
+#: ../single.php:15
+msgid "by"
+msgstr "par"
+
+#: ../single.php:15
+msgid "in"
+msgstr "dans"
+
+#: ../single.php:94
+msgid "Pages:"
+msgstr "Pages"
+
+#: ../404.php:30
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr "C'est un peu embarrassant, n'est ce pas ?"
+
+#: ../404.php:35
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for."
+msgstr "J'ai l'impression que vous ne trouvez pas ce que vous cherchez"
+
+#: ../comments.php:4
+msgid "Please do not load this page directly. Thanks!"
+msgstr "Merci de ne pas charger cette page directement"
+
+#: ../comments.php:7
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Cet article est protégé"
+
+#: ../comments.php:17
+msgid "0 comments"
+msgstr "0 commentaires"
+
+#: ../comments.php:17
+msgid "1 comment"
+msgstr "1 commentaire"
+
+#: ../comments.php:17
+msgid "% comments"
+msgstr "% commentaires"
+
+#: ../comments.php:33
+msgid "Comments are closed."
+msgstr "Les commentaires sont fermés"
+
+#: ../comments.php:42 ../comments.php:42 ../page-contact.php:28 ../home.php:219 ../page-resumestyle.php:238
+msgid "Let's keep in touch"
+msgstr "Restons en contact"
+
+#: ../comments.php:45
+msgid "You must be %slogged in%s to post a comment."
+msgstr "Vous devez vous logger"
+
+#: ../comments.php:52 ../comments.php:72 ../contact-form.php:4
+msgid "Name"
+msgstr "Nom"
+
+#: ../comments.php:56 ../comments.php:76 ../contact-form.php:8
+msgid "Email"
+msgstr "Email"
+
+#: ../comments.php:60 ../comments.php:80 ../contact-form.php:13
+msgid "Message"
+msgstr "Message"
+
+#: ../comments.php:65 ../comments.php:85 ../contact-form.php:17
+msgid "send message"
+msgstr "Envoyer"
+
+#: ../category.php:134 ../tag.php:120 ../archive.php:123 ../page-blog.php:139 ../author.php:120 ../index.php:131
+msgid "Read More"
+msgstr "Voir plus"
+
+#: ../search.php:48
+msgid "Nothing Found"
+msgstr "Rien trouvé"
+
+#: ../search.php:61
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+"Désolé, mais rien ne correspond à vos critères de recherche. S'il vous plaît "
+"essayer de nouveau avec quelques mots clés différents."
+
+#: ../page-resume.php:15 ../home.php:58 ../page-resumestyle.php:74
+msgid "resume"
+msgstr "Curriculum Vitae"
+
+#: ../page-profile.php:14 ../page-resumestyle.php:8
+msgid "my profile"
+msgstr "Mon profil"
+
+#: ../page-profile.php:34 ../home.php:23 ../page-resumestyle.php:32
+msgid "name"
+msgstr "Nom"
+
+#: ../page-profile.php:37 ../home.php:26 ../page-resumestyle.php:36
+msgid "Age"
+msgstr "Age"
+
+#: ../page-profile.php:40 ../home.php:29 ../page-resumestyle.php:40
+msgid "Address"
+msgstr "Adresse"
+
+#: ../page-profile.php:43 ../home.php:32 ../page-resumestyle.php:44
+msgid "E-mail"
+msgstr "E-mail"
+
+#: ../page-profile.php:46 ../home.php:35 ../page-resumestyle.php:48
+msgid "phone"
+msgstr "Tél."
+
+#: ../page-profile.php:48 ../home.php:37 ../page-resumestyle.php:50
+msgid "freelance"
+msgstr "Freelance"
+
+#: ../page-profile.php:51 ../page-resumestyle.php:54
+msgid "Available"
+msgstr "Valide"
+
+#: ../page-profile.php:53
+msgid "busy"
+msgstr "Occupé"
+
+#: ../page-profile.php:63 ../home.php:51
+msgid "MY BLOG"
+msgstr "Mon Blog"
+
+#: ../share-this-post.php:5
+msgid "Share:"
+msgstr "Partage"
+
+#: ../page-contact.php:14 ../home.php:206 ../page-resumestyle.php:224
+msgid "Contact info"
+msgstr "Infos de contact"
+
+#: ../home.php:122 ../page-portfolio.php:13 ../page-resumestyle.php:140
+msgid "My Portfolio"
+msgstr "Mon Portfolio"
+
+#: ../home.php:126 ../page-portfolio.php:17 ../page-resumestyle.php:144
+msgid "All"
+msgstr "Tout"
+
+#: ../page-resumestyle.php:56
+msgid "Busy"
+msgstr "Occupé"
+
+#: ../page-resumestyle.php:66
+msgid "MY BLOG!"
+msgstr "Mon blog !"
+
+#: ../functions/custom_functions.php:74
+msgid "Previous"
+msgstr "Précédent"
+
+#: ../functions/custom_functions.php:84
+msgid "Next"
+msgstr "Suivant"
+
+#: ../functions/custom_functions.php:114
+msgid "Home"
+msgstr "Accueil"
+
+#: ../functions/custom_functions.php:176
+msgid "404 - Page not Found"
+msgstr "404-Page non trouvée"
+
+#: ../functions/custom_functions.php:177
+msgid "Search"
+msgstr "Chercher"
+
+#: ../functions/class-tgm-plugin-activation.php:158
+msgid "Something went wrong."
+msgstr "Quelque chose est faux"
+
+#: ../functions/class-tgm-plugin-activation.php:170
+msgid "Return to the dashboard"
+msgstr "Retour à la dashboard"
+
+#. gettext fix: identical singular and plural forms found, that may be ambiguous! Please check the code!
+#: ../functions/class-tgm-plugin-activation.php:172 ../functions/class-tgm-plugin-activation.php:1538
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Le plugin a été correctement activé"
+msgstr[1] ""
+
+#: ../functions/class-tgm-plugin-activation.php:173
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Tous les plugins ont été installés et activés correctement"
+
+#: ../functions/class-tgm-plugin-activation.php:174
+msgid "Dismiss this notice"
+msgstr "Rejeter cet avis"
+
+#: ../functions/class-tgm-plugin-activation.php:1085
+msgid "External Link"
+msgstr "Lien externe"
+
+#: ../functions/class-tgm-plugin-activation.php:1090
+msgid "Private Repository"
+msgstr "Référence privé"
+
+#: ../functions/class-tgm-plugin-activation.php:1093
+msgid "Pre-Packaged"
+msgstr "Pré-Package"
+
+#: ../functions/class-tgm-plugin-activation.php:1097
+msgid "WordPress Repository"
+msgstr "Wordpress référence"
+
+#: ../functions/class-tgm-plugin-activation.php:1100
+msgid "Required"
+msgstr "Requis"
+
+#: ../functions/class-tgm-plugin-activation.php:1100
+msgid "Recommended"
+msgstr "Recommandé"
+
+#: ../functions/class-tgm-plugin-activation.php:1103
+msgid "Not Installed"
+msgstr "Pas installé"
+
+#: ../functions/class-tgm-plugin-activation.php:1105
+msgid "Installed But Not Activated"
+msgstr "Installé mais pas activé"
+
+#: ../functions/class-tgm-plugin-activation.php:1275
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+"Aucun plugin à installer ou activer. <a href=\"%1$s\" title=\"Return au "
+"Dashboard\"> Retour au tableau de bord </ a>"
+
+#: ../functions/class-tgm-plugin-activation.php:1291
+msgid "Plugin"
+msgstr "Plugin"
+
+#: ../functions/class-tgm-plugin-activation.php:1292
+msgid "Source"
+msgstr "Source"
+
+#: ../functions/class-tgm-plugin-activation.php:1293
+msgid "Type"
+msgstr "Type"
+
+#: ../functions/class-tgm-plugin-activation.php:1294
+msgid "Status"
+msgstr "Statut"
+
+#: ../functions/class-tgm-plugin-activation.php:1312
+msgid "Install"
+msgstr "Installer"
+
+#: ../functions/class-tgm-plugin-activation.php:1313
+msgid "Activate"
+msgstr "Activer"
+
+#: ../functions/class-tgm-plugin-activation.php:1823
+msgid "Install package not available."
+msgstr "L'installation a échoué"
+
+#: ../functions/class-tgm-plugin-activation.php:1824
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr "Téléchargement package d'installation de <span class=\"code\">% s </ span>"
+
+#: ../functions/class-tgm-plugin-activation.php:1825
+msgid "Unpacking the package&#8230;"
+msgstr "Déballage du paquet&#8230;"
+
+#: ../functions/class-tgm-plugin-activation.php:1826
+msgid "Installing the plugin&#8230;"
+msgstr "Installation du plugin&#8230;"
+
+#: ../functions/class-tgm-plugin-activation.php:1827
+msgid "Plugin install failed."
+msgstr "L'installation du plugin n'a pas fonctionné"
+
+#: ../functions/class-tgm-plugin-activation.php:1828
+msgid "Plugin installed successfully."
+msgstr "Le plugin a été correctement installé"
+
+#: ../functions/class-tgm-plugin-activation.php:1839
+msgid "Plugin activation failed."
+msgstr "L'activation du plugin a échoué"
+
+#: ../functions/class-tgm-plugin-activation.php:1949
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Le processus d'installation et d'activation commence. Ce processus peut prendre "
+"un certain temps sur certains hôtes, donc s'il vous plaît soyez patient."
+
+#: ../functions/class-tgm-plugin-activation.php:1950
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s installation et activation effectuées."
+
+#: ../functions/class-tgm-plugin-activation.php:1950 ../functions/class-tgm-plugin-activation.php:1959
+msgid "Show Details"
+msgstr "Voir détails"
+
+#: ../functions/class-tgm-plugin-activation.php:1950 ../functions/class-tgm-plugin-activation.php:1959
+msgid "Hide Details"
+msgstr "Cacher détails"
+
+#: ../functions/class-tgm-plugin-activation.php:1951
+msgid "All installations and activations have been completed."
+msgstr "Toutes les installations et activations sont complétées"
+
+#: ../functions/class-tgm-plugin-activation.php:1952
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Plugin installé et activé %1$s (%2$d/%3$d)"
+
+#: ../functions/class-tgm-plugin-activation.php:1956
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Le processus d'installation commence. Ce processus peut prendre un certain "
+"temps sur certains hôtes, donc s'il vous plaît soyez patient."
+
+#: ../functions/class-tgm-plugin-activation.php:1957
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Une erreur est apparue durant l'installation %1$s: <strong>%2$s</strong>."
+
+#: ../functions/class-tgm-plugin-activation.php:1958
+msgid "The installation of %1$s failed."
+msgstr "L'installation de %1$s a échoué."
+
+#: ../functions/class-tgm-plugin-activation.php:1959
+msgid "%1$s installed successfully."
+msgstr "%1$s s'est installé correctement."
+
+#: ../functions/class-tgm-plugin-activation.php:1960
+msgid "All installations have been completed."
+msgstr "Toutes les installations ont été achevées."
+
+#: ../functions/class-tgm-plugin-activation.php:1961
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Installe le plugin %1$s (%2$d/%3$d)"
+
+#: ../functions/class-tgm-plugin-activation.php:2052 ../functions/class-tgm-plugin-activation.php:2052
+msgid "Return to the Dashboard"
+msgstr "Retourner au tableau de bord"
+
+#: ../functions/plugins/wp-user-avatar/wp-user-avatar.php:18 ../functions/plugins/wp-user-avatar/uninstall.php:9 ../functions/plugins/wp-user-avatar/includes/tinymce.php:8 ../functions/plugins/wp-user-avatar/includes/tinymce/window.php:8
+msgid "You are not allowed to call this page directly."
+msgstr "Vous n'êtes pas autorisé à appeler cette page directement."
+
+#: ../functions/plugins/wp-user-avatar/wp-user-avatar.php:224
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Vous n'avez pas les permissions suffisantes pour accéder à cette page."
+
+#: ../functions/plugins/wp-user-avatar/wp-user-avatar.php:273 ../functions/plugins/wp-user-avatar/wp-user-avatar.php:278 ../functions/plugins/wp-user-avatar/wp-user-avatar.php:284 ../functions/plugins/wp-user-avatar/wp-user-avatar.php:897
+msgid "Avatar"
+msgstr "Avatar"
+
+#: ../functions/plugins/wp-user-avatar/wp-user-avatar.php:275 ../functions/plugins/wp-user-avatar/wp-user-avatar.php:281 ../functions/plugins/wp-user-avatar/wp-user-avatar.php:287
+msgid "Image"
+msgstr "Image"
+
+#: ../functions/plugins/wp-user-avatar/wp-user-avatar.php:366
+msgid "Update Profile"
+msgstr "Mettre à jour le profil"
+
+#: ../functions/plugins/wp-user-avatar/wp-user-avatar.php:366
+msgid "Update User"
+msgstr "Mettre à jour l'utilisateur"
+
+#: ../functions/plugins/wp-user-avatar/wp-user-avatar.php:371 ../functions/plugins/wp-user-avatar/wp-user-avatar.php:383 ../functions/plugins/wp-user-avatar/wp-user-avatar.php:555 ../functions/plugins/wp-user-avatar/wp-user-avatar.php:564 ../functions/plugins/wp-user-avatar/wp-user-avatar.php:873
+msgid "Edit Image"
+msgstr "Editer l'image"
+
+#: ../functions/plugins/wp-user-avatar/wp-user-avatar.php:375 ../functions/plugins/wp-user-avatar/wp-user-avatar.php:375 ../admin/options-class.php:527
+msgid "Upload"
+msgstr "Télécharger"
+
+#: ../functions/plugins/wp-user-avatar/wp-user-avatar.php:378 ../functions/plugins/wp-user-avatar/wp-user-avatar.php:982
+msgid "Maximum upload file size: %d%s."
+msgstr "Taille maximum du fichier: %d%s."
+
+#: ../functions/plugins/wp-user-avatar/wp-user-avatar.php:379
+msgid "Allowed Files"
+msgstr "Fichiers autorisés"
+
+#: ../functions/plugins/wp-user-avatar/wp-user-avatar.php:379
+msgid "<code>jpg jpeg png gif</code>"
+msgstr "<code>jpg jpeg png gif</code>"
+
+#: ../functions/plugins/wp-user-avatar/wp-user-avatar.php:387 ../functions/plugins/wp-user-avatar/includes/tinymce/window.php:83
+msgid "Original Size"
+msgstr "Taille originale"
+
+#: ../functions/plugins/wp-user-avatar/wp-user-avatar.php:391 ../functions/plugins/wp-user-avatar/includes/tinymce/window.php:86
+msgid "Thumbnail"
+msgstr "Vignette"
+
+#: ../functions/plugins/wp-user-avatar/wp-user-avatar.php:393 ../functions/plugins/wp-user-avatar/wp-user-avatar.php:874
+msgid "Remove"
+msgstr "Supprimer"
+
+#: ../functions/plugins/wp-user-avatar/wp-user-avatar.php:394 ../functions/plugins/wp-user-avatar/wp-user-avatar.php:876
+msgid "Click %s to save your changes"
+msgstr "Cliquer %s pour sauvegarder les changements"
+
+#: ../functions/plugins/wp-user-avatar/wp-user-avatar.php:404
+msgid ""
+"The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in the "
+"HTML form."
+msgstr "Le fichier uploadé dépasse la MAX_FILE_SIZE spécifiée dans le formulaire HTML."
+
+#: ../functions/plugins/wp-user-avatar/wp-user-avatar.php:463
+msgid "Sorry, this file type is not permitted for security reasons."
+msgstr "Désolé, ce type de fichier n'est pas permis pour des raisons de sécurité."
+
+#: ../functions/plugins/wp-user-avatar/wp-user-avatar.php:505 ../functions/plugins/wp-user-avatar/wp-user-avatar.php:555 ../functions/plugins/wp-user-avatar/wp-user-avatar.php:564
+msgid "Select Image"
+msgstr "Image sélectionnée"
+
+#: ../functions/plugins/wp-user-avatar/wp-user-avatar.php:507 ../functions/plugins/wp-user-avatar/wp-user-avatar.php:525 ../functions/plugins/wp-user-avatar/wp-user-avatar.php:872 ../functions/plugins/wp-user-avatar/wp-user-avatar.php:937 ../functions/plugins/wp-user-avatar/wp-user-avatar.php:1082 ../functions/plugins/wp-user-avatar/wp-user-avatar.php:1082 ../functions/plugins/wp-user-avatar/includes/tinymce/window.php:14
+msgid "WP User Avatar"
+msgstr "WP Utilisateur avatar"
+
+#: ../functions/plugins/wp-user-avatar/wp-user-avatar.php:517 ../functions/plugins/wp-user-avatar/wp-user-avatar.php:943 ../functions/plugins/wp-user-avatar/wp-user-avatar.php:946
+msgid "Settings"
+msgstr "Paramètres"
+
+#: ../functions/plugins/wp-user-avatar/wp-user-avatar.php:555 ../functions/plugins/wp-user-avatar/wp-user-avatar.php:900 ../functions/plugins/wp-user-avatar/wp-user-avatar.php:1047 ../functions/plugins/wp-user-avatar/wp-user-avatar.php:1050
+msgid "Default Avatar"
+msgstr "Avatar par défaut"
+
+#: ../functions/plugins/wp-user-avatar/wp-user-avatar.php:835
+msgid "Mystery Man"
+msgstr "Homme mystère"
+
+#: ../functions/plugins/wp-user-avatar/wp-user-avatar.php:836
+msgid "Blank"
+msgstr "Vide"
+
+#: ../functions/plugins/wp-user-avatar/wp-user-avatar.php:837
+msgid "Gravatar Logo"
+msgstr "Logo gravatar"
+
+#: ../functions/plugins/wp-user-avatar/wp-user-avatar.php:838
+msgid "Identicon (Generated)"
+msgstr "Identicon (Generated)"
+
+#: ../functions/plugins/wp-user-avatar/wp-user-avatar.php:839
+msgid "Wavatar (Generated)"
+msgstr "Wavatar (Generated)"
+
+#: ../functions/plugins/wp-user-avatar/wp-user-avatar.php:840
+msgid "MonsterID (Generated)"
+msgstr "MonsterID (Generated)"
+
+#: ../functions/plugins/wp-user-avatar/wp-user-avatar.php:841
+msgid "Retro (Generated)"
+msgstr "Retro (Generated)"
+
+#: ../functions/plugins/wp-user-avatar/wp-user-avatar.php:876
+msgid "Save Changes"
+msgstr "Sauvegarder les changements"
+
+#: ../functions/plugins/wp-user-avatar/wp-user-avatar.php:949
+msgid "Add avatar button to Visual Editor"
+msgstr "Add avatar button to Visual Editor"
+
+#: ../functions/plugins/wp-user-avatar/wp-user-avatar.php:955
+msgid "Allow Contributors & Subscribers to upload avatars"
+msgstr "Allow Contributors & Subscribers to upload avatars"
+
+#: ../functions/plugins/wp-user-avatar/wp-user-avatar.php:961
+msgid "Disable Gravatar and use only local avatars"
+msgstr "Disable Gravatar and use only local avatars"
+
+#: ../functions/plugins/wp-user-avatar/wp-user-avatar.php:972 ../functions/plugins/wp-user-avatar/wp-user-avatar.php:977
+msgid "Upload Size Limit"
+msgstr "Upload Size Limit"
+
+#: ../functions/plugins/wp-user-avatar/wp-user-avatar.php:972 ../functions/plugins/wp-user-avatar/wp-user-avatar.php:977
+msgid "(only for Contributors & Subscribers)"
+msgstr "(only for Contributors & Subscribers)"
+
+#: ../functions/plugins/wp-user-avatar/wp-user-avatar.php:980
+msgid "%s exceeds the maximum upload size for this site."
+msgstr "%s exceeds the maximum upload size for this site."
+
+#: ../functions/plugins/wp-user-avatar/wp-user-avatar.php:987
+msgid "Allow users to edit avatars"
+msgstr "Autoriser les utilisateurs à éditer les avatars"
+
+#: ../functions/plugins/wp-user-avatar/wp-user-avatar.php:993
+msgid "Resize avatars on upload"
+msgstr "Redimensionner les avatars au téléchargement"
+
+#: ../functions/plugins/wp-user-avatar/wp-user-avatar.php:999
+msgid "Width"
+msgstr "Largeur"
+
+#: ../functions/plugins/wp-user-avatar/wp-user-avatar.php:1001
+msgid "Height"
+msgstr "Hauteur"
+
+#: ../functions/plugins/wp-user-avatar/wp-user-avatar.php:1005
+msgid "Crop avatars to exact dimensions"
+msgstr "Rogner l'avatar aux dimensions"
+
+#: ../functions/plugins/wp-user-avatar/wp-user-avatar.php:1011
+msgid "Avatars"
+msgstr "Avatars"
+
+#: ../functions/plugins/wp-user-avatar/wp-user-avatar.php:1012
+msgid ""
+"An avatar is an image that follows you from weblog to weblog appearing beside "
+"your name when you comment on avatar enabled sites. Here you can enable the "
+"display of avatars for people who comment on your site."
+msgstr ""
+"Un avatar est une image qui vous suit de blog weblog apparaissant à côté de "
+"votre nom quand vous commentez sur les sites avatar permis. Ici, vous pouvez "
+"activer l'affichage des avatars pour les gens qui commentent sur ​​votre site."
+
+#: ../functions/plugins/wp-user-avatar/wp-user-avatar.php:1015 ../functions/plugins/wp-user-avatar/wp-user-avatar.php:1018
+msgid "Avatar Display"
+msgstr "Affichage de l'avatar"
+
+#: ../functions/plugins/wp-user-avatar/wp-user-avatar.php:1021
+msgid "Show Avatars"
+msgstr "Montrer les avatars"
+
+#: ../functions/plugins/wp-user-avatar/wp-user-avatar.php:1027 ../functions/plugins/wp-user-avatar/wp-user-avatar.php:1030
+msgid "Maximum Rating"
+msgstr "Maximum Rating"
+
+#: ../functions/plugins/wp-user-avatar/wp-user-avatar.php:1033
+msgid "G &#8212; Suitable for all audiences"
+msgstr "G &#8212; Suitable for all audiences"
+
+#: ../functions/plugins/wp-user-avatar/wp-user-avatar.php:1034
+msgid "PG &#8212; Possibly offensive, usually for audiences 13 and above"
+msgstr "PG &#8212; Possibly offensive, usually for audiences 13 and above"
+
+#: ../functions/plugins/wp-user-avatar/wp-user-avatar.php:1035
+msgid "R &#8212; Intended for adult audiences above 17"
+msgstr "R &#8212; Intended for adult audiences above 17"
+
+#: ../functions/plugins/wp-user-avatar/wp-user-avatar.php:1036
+msgid "X &#8212; Even more mature than above"
+msgstr "X &#8212; Even more mature than above"
+
+#: ../functions/plugins/wp-user-avatar/wp-user-avatar.php:1051
+msgid ""
+"For users without a custom avatar of their own, you can either display a "
+"generic logo or a generated one based on their e-mail address."
+msgstr ""
+"Pour les utilisateurs sans un avatar personnalisé de leur part, vous pouvez "
+"afficher un logo générique ou un être généré en fonction de leur adresse e-mail."
+
+#: ../functions/plugins/wp-user-avatar/includes/tinymce/window.php:71 ../functions/plugins/wp-user-avatar/includes/tinymce/window.php:72 ../functions/plugins/wp-user-avatar/includes/tinymce/window.php:72
+msgid "wp_user_avatar_user"
+msgstr "wp_utilisateur_avatar_utilisateur"
+
+#: ../functions/plugins/wp-user-avatar/includes/tinymce/window.php:71
+msgid "User Name"
+msgstr "Nom d'utilisateur"
+
+#: ../functions/plugins/wp-user-avatar/includes/tinymce/window.php:80 ../functions/plugins/wp-user-avatar/includes/tinymce/window.php:81 ../functions/plugins/wp-user-avatar/includes/tinymce/window.php:81 ../functions/plugins/wp-user-avatar/includes/tinymce/window.php:93
+msgid "wp_user_avatar_size"
+msgstr "wp_utilisateur_avatar_taille"
+
+#: ../functions/plugins/wp-user-avatar/includes/tinymce/window.php:80 ../functions/plugins/wp-user-avatar/includes/tinymce/window.php:92
+msgid "Size"
+msgstr "Taille"
+
+#: ../functions/plugins/wp-user-avatar/includes/tinymce/window.php:84
+msgid "Large"
+msgstr "Grand"
+
+#: ../functions/plugins/wp-user-avatar/includes/tinymce/window.php:85
+msgid "Medium"
+msgstr "Moyen"
+
+#: ../functions/plugins/wp-user-avatar/includes/tinymce/window.php:87
+msgid "Custom"
+msgstr "Personnaliser"
+
+#: ../functions/plugins/wp-user-avatar/includes/tinymce/window.php:91
+msgid "wp_user_avatar_size_number_section"
+msgstr "wp_user_avatar_size_number_section"
+
+#: ../functions/plugins/wp-user-avatar/includes/tinymce/window.php:92 ../functions/plugins/wp-user-avatar/includes/tinymce/window.php:93
+msgid "wp_user_avatar_size_number"
+msgstr "wp_user_avatar_size_number"
+
+#: ../functions/plugins/wp-user-avatar/includes/tinymce/window.php:96 ../functions/plugins/wp-user-avatar/includes/tinymce/window.php:97 ../functions/plugins/wp-user-avatar/includes/tinymce/window.php:97
+msgid "wp_user_avatar_align"
+msgstr "wp_user_avatar_align"
+
+#: ../functions/plugins/wp-user-avatar/includes/tinymce/window.php:96
+msgid "Alignment"
+msgstr "Alignement"
+
+#: ../functions/plugins/wp-user-avatar/includes/tinymce/window.php:99
+msgid "Center"
+msgstr "Centre"
+
+#: ../functions/plugins/wp-user-avatar/includes/tinymce/window.php:100
+msgid "Left"
+msgstr "Gauche"
+
+#: ../functions/plugins/wp-user-avatar/includes/tinymce/window.php:101
+msgid "Right"
+msgstr "Droite"
+
+#: ../functions/plugins/wp-user-avatar/includes/tinymce/window.php:105 ../functions/plugins/wp-user-avatar/includes/tinymce/window.php:106 ../functions/plugins/wp-user-avatar/includes/tinymce/window.php:106
+msgid "wp_user_avatar_link"
+msgstr "wp_user_avatar_link"
+
+#: ../functions/plugins/wp-user-avatar/includes/tinymce/window.php:105
+msgid "Link To"
+msgstr "Lien vers"
+
+#: ../functions/plugins/wp-user-avatar/includes/tinymce/window.php:108
+msgid "Image File"
+msgstr "Fichier image"
+
+#: ../functions/plugins/wp-user-avatar/includes/tinymce/window.php:109
+msgid "Attachment Page"
+msgstr "Page annexe"
+
+#: ../functions/plugins/wp-user-avatar/includes/tinymce/window.php:110
+msgid "Custom URL"
+msgstr "Personnaliser l'URL"
+
+#: ../functions/plugins/wp-user-avatar/includes/tinymce/window.php:114
+msgid "wp_user_avatar_link_external_section"
+msgstr "wp_user_avatar_link_external_section"
+
+#: ../functions/plugins/wp-user-avatar/includes/tinymce/window.php:115 ../functions/plugins/wp-user-avatar/includes/tinymce/window.php:116 ../functions/plugins/wp-user-avatar/includes/tinymce/window.php:116
+msgid "wp_user_avatar_link_external"
+msgstr "wp_user_avatar_link_external"
+
+#: ../functions/plugins/wp-user-avatar/includes/tinymce/window.php:115
+msgid "URL"
+msgstr "URL"
+
+#: ../functions/plugins/wp-user-avatar/includes/tinymce/window.php:120 ../functions/plugins/wp-user-avatar/includes/tinymce/window.php:121 ../functions/plugins/wp-user-avatar/includes/tinymce/window.php:121
+msgid "wp_user_avatar_target"
+msgstr "wp_user_avatar_target"
+
+#: ../functions/plugins/wp-user-avatar/includes/tinymce/window.php:121
+msgid "Open link in a new window"
+msgstr "Ouvrir le lien dans une nouvelle fenêtre"
+
+#: ../functions/plugins/wp-user-avatar/includes/tinymce/window.php:125
+msgid "Insert into Post"
+msgstr "Insérer dans le post"
+
+#: ../admin/options-class.php:467
+msgid "Last Backup : "
+msgstr "Dernière sauvegarde"
+
+#: ../admin/admin-mediauploader.php:11
+msgid "Options"
+msgstr "Options"
+
+#: ../admin/admin-mediauploader.php:201
+msgid "Gallery"
+msgstr "Galerie"
+
+#: ../admin/admin-mediauploader.php:201
+msgid "Previously Uploaded"
+msgstr "Précédemment téléchargé"
+
+#: ../admin/main-options.php:35 ../admin/main-options.php:62
+msgid "Save All Changes"
+msgstr "Sauvegarder tous les changements"
+
+#: ../admin/main-options.php:63
+msgid "Options Reset"
+msgstr "Options Reset"

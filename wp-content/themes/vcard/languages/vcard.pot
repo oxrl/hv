@@ -1,0 +1,161 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: vCard WordPress Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-12-15 09:15-0700\n"
+"PO-Revision-Date: 2013-12-15 09:15-0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__;esc_attr__;esc_attr_e;esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: y:\\vcard\n"
+
+#: /vcard/404.php
+msgid "my profile"
+msgstr ""
+
+#: /vcard/404.php
+msgid "my blog posts"
+msgstr ""
+
+#: /vcard/404.php
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr ""
+
+#: /vcard/404.php
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for."
+msgstr ""
+
+#: /vcard/archive.php
+msgid "Read More"
+msgstr ""
+
+#: /vcard/comments.php
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: /vcard/comments.php
+msgid "Please do not load this page directly. Thanks!"
+msgstr ""
+
+#: /vcard/comments.php
+msgid "0 comments"
+msgstr ""
+
+#: /vcard/comments.php
+msgid "1 comment"
+msgstr ""
+
+#: /vcard/comments.php
+msgid "% comments"
+msgstr ""
+
+#: /vcard/comments.php
+msgid "Comments are closed."
+msgstr ""
+
+#: /vcard/comments.php
+msgid "Let's keep in touch"
+msgstr ""
+
+#: /vcard/comments.php
+msgid "You must be %slogged in%s to post a comment."
+msgstr ""
+
+#: /vcard/comments.php
+msgid "Name"
+msgstr ""
+
+#: /vcard/comments.php
+msgid "Email"
+msgstr ""
+
+#: /vcard/comments.php
+msgid "Message"
+msgstr ""
+
+#: /vcard/comments.php
+msgid "send message"
+msgstr ""
+
+#: /vcard/*.php
+msgid "name"
+msgstr ""
+
+#: /vcard/*.php
+msgid "Age"
+msgstr ""
+
+#: /vcard/*.php
+msgid "Address"
+msgstr ""
+
+#: /vcard/*.php
+msgid "E-mail"
+msgstr ""
+
+#: /vcard/*.php
+msgid "phone"
+msgstr ""
+
+#: /vcard/*.php
+msgid "freelance"
+msgstr ""
+
+#: /vcard/*.php
+msgid "Available"
+msgstr ""
+
+#: /vcard/*.php
+msgid "busy"
+msgstr ""
+
+#: /vcard/*.php
+msgid "MY BLOG"
+msgstr ""
+
+#: /vcard/*.php
+msgid "resume"
+msgstr ""
+
+#: /vcard/*.php
+msgid "My Portfolio"
+msgstr ""
+
+#: /vcard/*.php
+msgid "All"
+msgstr ""
+
+#: /vcard/search.php.php
+msgid "Contact info"
+msgstr ""
+
+#: /vcard/search.php.php
+msgid "Nothing Found"
+msgstr ""
+
+#: /vcard/share-this-post.php.php
+msgid "Share:"
+msgstr ""
+
+#: /vcard/single.php
+msgid "Pages:"
+msgstr ""
+
+#: /vcard/single.php
+msgid "by"
+msgstr ""
+
+#: /vcard/single.php
+msgid "in"
+msgstr ""
+
+#: 
+msgid "home page"
+msgstr ""
